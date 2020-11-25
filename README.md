@@ -1,5 +1,7 @@
 # Build a Kanban Board with Javascript
 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ernestweems/JS-KanbanBoard/master?style=for-the-badge)
+
 ## Status
 
 **Published**
